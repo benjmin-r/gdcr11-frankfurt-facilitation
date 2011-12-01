@@ -44,15 +44,17 @@
 ## Practice
 
 
-<!SLIDE bullets incremental>
+<!SLIDE>
 
 # Goals?
 ## Programming is a craft
 
 .notes Musicians
 
-<!SLIDE>
+<!SLIDE bullets incremental>
 
 # Goals?
-## 
+## Learning!
+
+* ... not teaching
 
