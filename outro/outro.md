@@ -1,5 +1,15 @@
 <!SLIDE bullets incremental>
 
+# Winners!
+
+* **ALL**: 15$ off 1st CodeSchool month
+* http://go.codeschool.com/coderetreat
+* **One**: One Prag Prog ebook
+* **One**: One JetBrains License
+
+
+<!SLIDE bullets incremental>
+
 # Reminder
 ## Softwerkskammer
 
