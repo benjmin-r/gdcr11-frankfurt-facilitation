@@ -4,7 +4,11 @@
   "sections": [
     "title",
     "sponsors",
-    "# History of CodeRetreat",
-    "history"
+    "softwerkskammer",
+    "# CodeRetreat",
+    "intro",
+    "sessions",
+    "closing",
+    "outro"
   ]
 }

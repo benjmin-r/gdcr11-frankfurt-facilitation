@@ -7,17 +7,26 @@ body {
   font-size: 1.2em;
 }
 
+/*
 #preso .slide h1 {
   color: #000;
   font-size:5em;
 }
+*/ 
+
+#preso .slide h1 {
+    background:#995E24;
+    color:#fff;
+    font-size:4.7em;
+    padding:30px;
+}
 
 #preso h2 {
-  color: #995E24;
+  color: #000;
   font-size:3.5em;
 }
 #preso h3 {
-  color: #F0A130;
+  color: #995E24;
   font-size:1.8em;
 }
 
@@ -95,7 +104,7 @@ body {
 }
 
 #preso div.subsection h1 {
-    background:#c00;
+    background:#995E24;
     color:#fff !important;
 }
 
@@ -133,3 +142,12 @@ em {
 .float-img img {
     float:right;
 }
+
+.hilite h2 {
+    background:#FFFACB;
+    width:100%;
+    color:#F0A130 !important;
+    padding:30px;;
+    /* #F0A130 */
+}
+

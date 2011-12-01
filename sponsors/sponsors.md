@@ -1,6 +1,6 @@
 <!SLIDE bullets incremental>
 
-# Sponsors
+# Local Sponsors
 
 <br/>
 <br/>
