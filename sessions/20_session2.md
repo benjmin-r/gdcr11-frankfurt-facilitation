@@ -1,6 +1,10 @@
 <!SLIDE bullets incremental>
 
 # Session #2
+
+<!SLIDE bullets incremental>
+
+# Session #2
 ## Simple Design
 
 * Runs all the Tests
@@ -46,7 +50,8 @@
 ## Simple Design
 
 * Find best names possible
-* Remove ALL duplication
+* Methods max. 4 lines
+* ping pong
 
 
 <!SLIDE bullets incremental>

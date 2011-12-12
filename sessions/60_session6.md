@@ -1,6 +1,11 @@
 <!SLIDE bullets incremental>
 
 # Session #6
+
+
+<!SLIDE bullets incremental>
+
+# Session #6
 ## Code Swap
 
 * Improve upon others' code

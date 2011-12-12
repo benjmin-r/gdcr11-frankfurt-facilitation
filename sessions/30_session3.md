@@ -1,14 +1,13 @@
 <!SLIDE bullets incremental>
 
-# Session #4
-## Getting tight
+# Session #3
 
-* Tell don't ask
-* Go East
+
+<!SLIDE bullets incremental>
+
+# Session #3
+
 * Don't pass language-primitives
-* Verb-focused Design
-
-.notes EAST: All public methods should be void, boolean or return a reference to the current object (this in Java).
 
 
 <!SLIDE bullets incremental>

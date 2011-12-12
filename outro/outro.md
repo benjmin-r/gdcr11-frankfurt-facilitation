@@ -1,12 +1,5 @@
 <!SLIDE bullets incremental>
 
-# Feedback?
-
-* Anything we could've done to better support learning?
-
-
-<!SLIDE bullets incremental>
-
 # Winners!
 
 * **ALL**: 15$ off 1st CodeSchool month

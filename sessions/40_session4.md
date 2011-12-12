@@ -1,12 +1,13 @@
 <!SLIDE bullets incremental>
 
-# Session #3
-## Missing Tools
+# Session #4
 
-* No if-statements
-* No loops
-* Methods max. 4 lines
-* No mouse
+
+<!SLIDE bullets incremental>
+
+# Session #4
+
+* Verb-focused
 
 
 <!SLIDE bullets incremental>

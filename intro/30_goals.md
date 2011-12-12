@@ -41,20 +41,23 @@
 <!SLIDE>
 
 # Goals?
-## Practice
+## Programming is a craft
 
 
-<!SLIDE>
+<!SLIDE bullets incremental>
 
 # Goals?
-## Programming is a craft
+## It's not about TDD 
+
+* ... it's about what you want to practice
+
 
 .notes Musicians
 
 <!SLIDE bullets incremental>
 
 # Goals?
-## Learning!
+## It's not about teaching
 
-* ... not teaching
+* ... it's about learning
 

@@ -1,14 +1,14 @@
 <!SLIDE bullets>
 
 # Session #5
+
+
+<!SLIDE bullets>
+
+# Session #5
 ## Communicate 
 
-* Ball & Board
-* Evil Pair
-* Mute
-* Timeboxing
-* Navigator & Driver
-
+* Mute Evil Pair
 
 
 <!SLIDE bullets incremental>
